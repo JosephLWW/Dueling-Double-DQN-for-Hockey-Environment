@@ -7,9 +7,9 @@ A deep reinforcement learning project implementing a Dueling Double DQN (DDDQN) 
 
 - **Dueling Architecture:** Separates value and advantage streams.
 - **Double DQN:** Reduces overestimation bias.
-- **Prioritized Experience Replay:** Improves sampling efficiency.
-- **Curriculum Learning:** Train using specialized modes via `coach.py`.
-- **Optional ICM:** Enhances exploration through intrinsic rewards.
+- **Prioritized Experience Replay:** Improves experience sampling.
+- **Curriculum Learning:** Train using curriculum learning via `coach.py`.
+- **ICM:** Enhances exploration through intrinsic rewards.
 
 ## Usage
 
