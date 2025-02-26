@@ -1,0 +1,18 @@
+box2d-py
+gymnasium
+git+https://github.com/martius-lab/hockey-env.git
+gzip
+ipympl
+jupyterlab
+matplotlib
+notebook
+numpy
+pygame
+swig
+tensorboardx
+torch
+
+# Add this if you need a CPU only version
+--index-url https://download.pytorch.org/whl/cpu
+--extra-index-url https://pypi.org/simple
+
