@@ -30,9 +30,10 @@ To test a previously trained model, use output the weights and stat files and ru
 
 ![image](https://github.com/user-attachments/assets/3972cfb2-1b86-438b-8584-71875e6954d7)
 
-<pre>
+
 Repository Structure
 ---------------------
+<pre>
 .
 ├── LICENSE
 ├── Model Tester.ipynb
