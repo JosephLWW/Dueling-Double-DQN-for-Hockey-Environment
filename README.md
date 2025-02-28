@@ -18,10 +18,10 @@ A deep reinforcement learning project implementing a Dueling Double DQN (DDDQN) 
 ## Usage
 
 ### Requirements
-This project was developed with python 3.10.11. All necessary dependencies are specified in `requirements.txt` (please install via pip).
+This project was developed with python 3.10.11. All necessary dependencies are specified in `requirements.txt` (please install via `pip`).
 
 ### Training
-1. Adjust config.py for training configuration and hyperparameter setting.
+1. Adjust `config.py` for training configuration and hyperparameter setting.
 2. Execute the `trainer.py` method to start training the model in custom mode and `coach.py` if you want to do it using the curriculum learning implementation.
 3. Retraining of old models is supported. Old model weights are required in that case. Optimizer state and experience replay buffer are recommended.
    - You can use `model_weights_dddqn.pth`, `optimizer_state_dddqn.pth` and `training_stats_dddqn.pkl.gz` as an example
