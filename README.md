@@ -30,6 +30,7 @@ To test a previously trained model, use output the weights and stat files and ru
 
 ![image](https://github.com/user-attachments/assets/3972cfb2-1b86-438b-8584-71875e6954d7)
 
+<pre>
 Repository Structure
 ---------------------
 .
@@ -54,3 +55,4 @@ Repository Structure
     ├── DDDQN vs Strong Opponent.mp4
     ├── RL_Course_2024_25__Final_Project_Report.pdf
     └── Tournament_results.ods
+</pre>
